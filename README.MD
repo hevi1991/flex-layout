@@ -20,7 +20,7 @@
 文件|简述
 -|-
 07-order.html|项目的顺序
-08-flex-grow.html|项目放大比例控制
+08-flex-grow.html|项目放大比例控制
 09-flex-shrink.html|项目缩小控制
 10-flex-basis.html|项目主轴的空余空间分配
 11-flex.html|flex-grow、flex-shrink、flex-basis的简写属性
