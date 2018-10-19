@@ -5,7 +5,7 @@
 [Flex 布局教程：语法篇 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
 
 ### 容器属性
-文件|简述
+文件|简述
 -|-
 01-flex-direction.html|flex主轴方向
 02-flex-wrap.html|flex-item的换行
