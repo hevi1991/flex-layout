@@ -1,6 +1,10 @@
-跟着[Flex 布局教程：语法篇 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)，撸出来的Demo。
+# CSS-Flex布局填坑
 
-## 容器属性
+## 基础篇
+
+[Flex 布局教程：语法篇 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+
+### 容器属性
 文件|简述
 -|-
 01-flex-direction.html|flex主轴方向
@@ -11,7 +15,8 @@
 06-align-content.html|每条轴线的垂直对齐方式
 
 ---
-## 项目属性
+
+### 项目属性
 文件|简述
 -|-
 07-order.html|项目的顺序
@@ -20,3 +25,18 @@
 10-flex-basis.html|项目主轴的空余空间分配
 11-flex.html|flex-grow、flex-shrink、flex-basis的简写属性
 12-align-self.html|允许单个项目与其他项目不一样的对齐方式
+
+## 实践篇
+
+[Flex 布局教程：实例篇 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html)
+
+### 骰子布局
+
+文件|描述
+-|-
+01.html|单项目
+03.html|双项目
+02.html|三项目
+04.html|四项目
+05.html|六项目
+06.html|九项目
