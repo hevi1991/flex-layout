@@ -7,7 +7,7 @@
 ### 容器属性
 文件|简述
 -|-
-01-flex-direction.html|flex主轴方向
+01-flex-direction.html|flex主轴方向
 02-flex-wrap.html|flex-item的换行
 03-flex-flow.html|flex-direction和flex-wrap的简写属性
 04-justify-content.html|每个项目的水平对齐方式
