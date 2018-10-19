@@ -6,7 +6,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Page Title</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
     <script src="main.js"></script>
     <style>
         * {
@@ -29,6 +28,7 @@
         .box-1 {
             flex-shrink: 0;
         }
+
     </style>
 </head>
 
@@ -52,11 +52,11 @@
     <h2>如果一个项目的flex-shrink属性为0，其他项目都为1，则空间不足时，前者不缩小。</h2>
     <div class="box-container">
         <div class="box">1</div>
-        <div class="box box-1">2</div>
+        <div class="box box-1">2 flex-shrink 0</div>
         <div class="box">3</div>
         <div class="box">4</div>
         <div class="box">5</div>
-        <div class="box">6</div>
+        <div class="box box-1">6 flex-shrink 0</div>
         <div class="box">7</div>
         <div class="box">8</div>
         <div class="box">9</div>
